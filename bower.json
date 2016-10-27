@@ -1,5 +1,5 @@
 {
-  "name": "eff-helloworld",
+  "name": "purescript-guessing-game",
   "ignore": [
     "**/.*",
     "node_modules",
